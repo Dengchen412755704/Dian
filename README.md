@@ -24,6 +24,7 @@ test.tar.gz        test.war        test.zip 用于解压的对象
  * 运行结果：
  ![](https://github.com/Dengchen412755704/Dian/blob/master/picture/1.png)
  
+ 
  文件2——2.self_compression.sh
  -------
  * 文件结构：
