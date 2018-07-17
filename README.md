@@ -22,7 +22,7 @@ test.tar.gz        test.war        test.zip 用于解压的对象
                         调用fac递归计算                         
  ------     
  * 运行结果：
- ![](https://github.com/Dengchen412755704/Dian/blob/master/picture/1.png）
+ ![](https://github.com/Dengchen412755704/Dian/blob/master/picture/1.png)
  
  文件2——2.self_compression.sh
  -------
@@ -40,7 +40,7 @@ test.tar.gz        test.war        test.zip 用于解压的对象
                       输出不支持该类型                           
  ------     
  * 运行结果：
- ![](https://github.com/Dengchen412755704/Dian/blob/master/picture/2.png）
+ ![](https://github.com/Dengchen412755704/Dian/blob/master/picture/2.png)
  
  
  文件3——3.file_size.sh 
@@ -56,9 +56,9 @@ test.tar.gz        test.war        test.zip 用于解压的对象
                     输出指定路径的前n个最大的文件                     
  ------     
  * 运行结果：
- ![](https://github.com/Dengchen412755704/Dian/blob/master/picture/3.png）
+ ![](https://github.com/Dengchen412755704/Dian/blob/master/picture/3.png)
  
  
 参考资料
 ======
-编辑readme.cd文件：https://blog.csdn.net/ljc_563812704/article/details/53464039
+编辑readme.md文件：https://blog.csdn.net/ljc_563812704/article/details/53464039
